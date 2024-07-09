@@ -1,8 +1,8 @@
-## Implementation Forum "xyz"
+## Implementation Forum "Contractual Framework"
 
 ### General Information
 
-This is the repository for the Data Space Implementation Forum "xyz", dealing with the DSSC Building Blocks A, B & C.
+This is the repository for the Data Space Implementation Forum "Contractual Framework", dealing with the corresponding DSSC Building Block.
 
 We are currently meeting biweekly on x-days from hh:mm to hh:mm. Reminders and invitations for new participants will be sent 1-2 days before the meetings. To receive invitations, [please register via this link](https://forms.gle/CUDio2n6nGhgM94X6) and select at least one of the building blocks above. You can propose agenda items by committing changes to the agenda below. [Please also join our Matrix channel](https://matrix.to/#/!PBADeZgSbpHlBoyEjE:matrix.org?via=matrix.org).
 
@@ -35,4 +35,5 @@ This format offer the Data Space Community a place for exchange between projects
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 
 ### Past Meetings & Interesting Reads
-
+- [IDSA Contract Negotiation Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/contract-negotiation/contract.negotiation.protocol)
+- [RESTful API over HTTPS for the Contract Negotiation Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/contract-negotiation/contract.negotiation.binding.https)
