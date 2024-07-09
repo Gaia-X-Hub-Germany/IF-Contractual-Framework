@@ -36,4 +36,4 @@ This format offer the Data Space Community a place for exchange between projects
 
 ### Past Meetings & Interesting Reads
 - [IDSA Contract Negotiation Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/contract-negotiation/contract.negotiation.protocol)
-- [RESTful API over HTTPS for the Contract Negotiation Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/contract-negotiation/contract.negotiation.binding.https)
+- [IDSA RESTful API over HTTPS for the Contract Negotiation Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/contract-negotiation/contract.negotiation.binding.https)
